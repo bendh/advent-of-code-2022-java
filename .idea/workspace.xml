@@ -1,0 +1,198 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="c231e63c-b1f0-414e-83f8-f0c74c4ae42e" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/gradle.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/build.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/gradlew.bat" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/settings.gradle.kts" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nl/benooms/advent_of_code/Day01.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nl/benooms/advent_of_code/Day02.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nl/benooms/advent_of_code/Day03.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nl/benooms/advent_of_code/Day04.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nl/benooms/advent_of_code/Day05.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/nl/benooms/advent_of_code/utils/FileReader.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Day01.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Day01_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Day02.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Day02_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Day03.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Day03_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Day04.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Day04_test.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Day05.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/resources/Day05_test.txt" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2IUqzyGTWIouGtQwvPfN7QLoUbr" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "last_opened_file_path": "/Users/benooms/projects/sandbox/advent-of-code-2022-java/src/main/resources",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "vue.rearranger.settings.migration": "true"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="nl.benooms.advent_of_code" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Day05">
+    <configuration name="Day01" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nl.benooms.advent_of_code.Day01" />
+      <module name="advent-of-code-2022-java.main" />
+      <option name="PROGRAM_PARAMETERS" value="-ea" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nl.benooms.advent_of_code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day02" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nl.benooms.advent_of_code.Day02" />
+      <module name="advent-of-code-2022-java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nl.benooms.advent_of_code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day03" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nl.benooms.advent_of_code.Day03" />
+      <module name="advent-of-code-2022-java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nl.benooms.advent_of_code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day04" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nl.benooms.advent_of_code.Day04" />
+      <module name="advent-of-code-2022-java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nl.benooms.advent_of_code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Day05" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="nl.benooms.advent_of_code.Day05" />
+      <module name="advent-of-code-2022-java.main" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="nl.benooms.advent_of_code.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.Day02" />
+      <item itemvalue="Application.Day03" />
+      <item itemvalue="Application.Day04" />
+      <item itemvalue="Application.Day05" />
+      <item itemvalue="Application.Day01" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Day05" />
+        <item itemvalue="Application.Day04" />
+        <item itemvalue="Application.Day03" />
+        <item itemvalue="Application.Day02" />
+        <item itemvalue="Application.Day01" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c231e63c-b1f0-414e-83f8-f0c74c4ae42e" name="Changes" comment="" />
+      <created>1670246779218</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1670246779218</updated>
+      <workItem from="1670246780532" duration="39290000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <breakpoint type="java-exception">
+          <properties class="org.opentest4j.AssertionFailedError" package="org.opentest4j" />
+          <option name="timeStamp" value="3" />
+        </breakpoint>
+        <breakpoint enabled="true" type="java-exception">
+          <properties class="java.util.NoSuchElementException" package="java.util" />
+          <option name="timeStamp" value="17" />
+        </breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>
