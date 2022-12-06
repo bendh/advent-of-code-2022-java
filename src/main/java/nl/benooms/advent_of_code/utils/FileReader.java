@@ -12,4 +12,9 @@ public class FileReader {
         var path = Path.of( INPUT_PATH, input);
         return Files.readAllLines(path);
     }
+
+    public static String getText(String input) throws IOException {
+        var path = Path.of( INPUT_PATH, input);
+        return Files.readString(path);
+    }
 }
